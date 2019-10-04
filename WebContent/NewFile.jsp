@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
- 			<a href="NewFile.jsp">Click</a>
+       Ekantika, Neelam and Rutuja are amazing!
+       Neelam wants to break the CPU.
 </body>
 </html>
