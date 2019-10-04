@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- 			<a href="NewFile.jsp">Click</a>
- 			<a href="rt.jsp">Click fast</a>
+	Hii Rutuja!! How are you?? Bye
 </body>
 </html>
